@@ -1,0 +1,25 @@
+body{
+   
+    background-image: url("pic.jpg");
+    background-size: cover;
+    
+}
+
+table tr{
+    height: 100px;
+    font-size: larger;
+    text-align: center;
+}
+th,td {
+    padding-top: 70px;
+}
+table,th,td{
+   border-width: 0.1px;
+   border-color: rgb(9, 6, 29);
+   text-decoration: no;
+   
+}
+
+
+
+ 
